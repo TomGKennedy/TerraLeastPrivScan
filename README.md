@@ -13,6 +13,7 @@ Least Privileges Code Scanner scans your code at the Terraform planning stage an
 * Python
 * Terraform
 * AWS CLi
+* AWS IAM
 ## Deploy:
 
     enter code here
