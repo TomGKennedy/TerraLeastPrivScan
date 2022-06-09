@@ -13,6 +13,7 @@ TerraPerCS is a Least-Privileges Code Scanner that checks your code at the Terra
 * Terraform
 * AWS IAM
 * CLI
+
 ## Deploy:
 
     enter code here
