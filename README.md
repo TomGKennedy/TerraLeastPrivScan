@@ -1,7 +1,7 @@
 # TerraPerCS
 
 ### About this project:
-Least Privileges Code Scanner scans your code at the Terraform planning stage and informs you of what permissions you need in order to apply the changes to your environment/infrastructure.
+TerraPerCS is a Least-Privileges Code Scanner that checks your code at the Terraform planning stage and informs you of what permissions you need in order to apply the changes to your environment/infrastructure on AWS.
 
 ### Capabilities:
 * Scan Terraform code
