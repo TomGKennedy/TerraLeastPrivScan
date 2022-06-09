@@ -23,4 +23,4 @@ Least Privileges Code Scanner scans your code at the Terraform planning stage an
 
 see it in action:
 
-![scan-screenshot](https://raw.githubusercontent.com/bridgecrewio/checkov/master/docs/checkov-recording.gif)
+
