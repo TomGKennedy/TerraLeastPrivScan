@@ -4,16 +4,15 @@
 Least Privileges Code Scanner scans your code at the Terraform planning stage and informs you of what permissions you need in order to apply the changes to your environment/infrastructure.
 
 ### Capabilities:
-* scan Terraform code
-* find action requests
-* find lowest required privileges
-* make a request template with the required privileges
+* Scan Terraform code
+* Find action requests
+* Find lowest required privileges
+* Make a request template with the required privileges
 
 ## Prerequisites:
-* Python
 * Terraform
-* AWS CLi
 * AWS IAM
+* CLI
 ## Deploy:
 
     enter code here
@@ -21,4 +20,8 @@ Least Privileges Code Scanner scans your code at the Terraform planning stage an
 ## Local Environment:
 
     enter code here
+
+## Future Steps:
+* Identify resources outside of AWS
+* Automate the request for permissions
 
