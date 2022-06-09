@@ -19,8 +19,6 @@ Least Privileges Code Scanner scans your code at the Terraform planning stage an
 
     enter code here
 
-
-
 see it in action:
 
 
