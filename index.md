@@ -5,7 +5,10 @@ Least Privileges Code Scanner scans your code at the Terraform planning stage an
 
 
 ### Capabilities:
-
+* scan Terraform code
+* find action requests
+* find lowest required privileges
+* make a request template with the required privileges
 
 ### Prerequisites:
 * Python
