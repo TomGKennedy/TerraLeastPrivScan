@@ -25,4 +25,3 @@ TerraPerra is a Least-Privileges Code Scanner that checks your code at the Terra
 ## Future Steps:
 * Identify resources outside of AWS
 * Automate the request for permissions
-
